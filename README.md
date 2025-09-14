@@ -1,6 +1,6 @@
 # What I intended to create:
 
-# I created a funny meme that shows a group of people lying on the sand in different positions. I added the text to make it look like they’re doing contemporary dance but ended up looking sleepy.
+# I created a funny meme that shows a group of people lying on the ground. I added the text to make it look like they’re doing contemporary dance but ended up looking sleepy.
 
 # Theme:
 
